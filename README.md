@@ -19,12 +19,15 @@ Limited to the room, only few files are uploaded here.
 
  Pre-processed data in CSV format has been uploaded here.The file "ConstantPos8_0_9" is taken as an example, which means the data from 28800s to 29400s.
 
-**4. Step 1 Data Fusion; Step 2 Trust Factor Acquisition**
+**4. Step 1 Feature Analysis; Step 2 Data Fusion; Step 3 Trust Factor Acquisition**
 
 The code files for data fusion and trust factor acquisition are not explicitly provided by the authors at this peer-reviewed stage. 
 
-**5. Step 3 Trust prediction**
+**5. Step 4 Trust prediction**
 
 The above-mentioned files are utilized for trust predictions using machine learning methods. 
 Additionally, the input files are different for per-minute level and multi-minute level. 
 The code files are not explicitly provided by the authors at this peer-reviewed stage. 
+
+**6. Comparison with the Bayesian Interference-based TMS, Fuzzy Logic-based TMS **
+
